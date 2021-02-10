@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballApp.Asp.NetWebApi", "BasketballApp.Asp.NetWebApi\BasketballApp.Asp.NetWebApi.csproj", "{9804AE7E-4E6D-4FBC-B609-98AB724435FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballApp.Asp.NetWebApi.Tests", "BasketballApp.Asp.NetWebApi.Tests\BasketballApp.Asp.NetWebApi.Tests.csproj", "{B727F214-4E5A-4B13-BBB8-F2DE0AF8A478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9804AE7E-4E6D-4FBC-B609-98AB724435FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9804AE7E-4E6D-4FBC-B609-98AB724435FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9804AE7E-4E6D-4FBC-B609-98AB724435FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9804AE7E-4E6D-4FBC-B609-98AB724435FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B727F214-4E5A-4B13-BBB8-F2DE0AF8A478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B727F214-4E5A-4B13-BBB8-F2DE0AF8A478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B727F214-4E5A-4B13-BBB8-F2DE0AF8A478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B727F214-4E5A-4B13-BBB8-F2DE0AF8A478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E78FB94-97EE-4C6C-9C5E-22DC829C8C2B}
+	EndGlobalSection
+EndGlobal
